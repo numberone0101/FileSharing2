@@ -20,6 +20,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 - Tambahkan bot ke Channel ForceSub tambahkan bot sebagai ADMIN
 - Tambahkan bot ke Group ForceSub tambahkan bot sebagai ADMIN
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -51,6 +52,7 @@ bash start
 
 </details>
 
+        
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
