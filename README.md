@@ -112,8 +112,8 @@ Laporkan Bug, Berikan Permintaan Fitur Di sana..
 ### Credits
 
 - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
-- [CodeXBotz](https://github.com/CodeXBotz/File-Sharing-Bot)
-- [FILE-SHARING-MAN](https://github.com/mrismanaziz/File-Sharing-Man/)
+- CodeXBotz • [CodeXBotz](https://github.com/CodeXBotz/File-Sharing-Bot)
+- mrismanaziz • [FILE-SHARING-MAN](https://github.com/mrismanaziz/File-Sharing-Man/)
 - Our Support Group Members
 
 
