@@ -41,7 +41,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
     
 ```
 bash
-git clone https://github.com/numberone0101/FileSharing2
+git clone https://github.com/Jstkyy/FileSharing
 cd FileSharing
 pip3 install -r requirements.txt
 cp sample_config.env config.env
