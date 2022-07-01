@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/JstKyy/FileSharing",
+  "repository": "https://github.com/numberone0101/FileSharing2",
   "logo": "https://telegra.ph/file/3b4d6f0bd47afcc9de01b.jpg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -15,7 +15,7 @@
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "pocongonlen"
+      "value": "numberone"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
@@ -51,7 +51,7 @@
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML",
-      "value": "<b>Hello {first}\n\nAnda harus bergabung di Channel/Grup saya untuk menggunakan saya\n\nSilakan Join Ke Channel Terlebih Dahulu</b>"
+      "value": "<b>Hello {first}\n\nAnda harus bergabung di Channel saya untuk menggunakan saya\n\nSilakan Join Ke Channel Terlebih Dahulu</b>"
     }
   },
   "addons": [
