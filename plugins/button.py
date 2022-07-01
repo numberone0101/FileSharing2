@@ -18,7 +18,7 @@ def start_button(client):
     if not FORCE_SUB_CHANNEL and FORCE_SUB_GROUP:
         buttons = [
             [
-                InlineKeyboardButton(text="Grup", url=client.invitelink2),
+                InlineKeyboardButton(text="Channel", url=client.invitelink2),
             ],
             [
                 InlineKeyboardButton(text="Informasi Bot", callback_data="about"),
@@ -44,7 +44,7 @@ def start_button(client):
             ],
             [
                 InlineKeyboardButton(text="Channel", url=client.invitelink),
-                InlineKeyboardButton(text="Grup", url=client.invitelink2),
+                InlineKeyboardButton(text="Channel", url=client.invitelink2),
             ],
             [InlineKeyboardButton(text="Tutup", callback_data="close")],
         ]
@@ -55,7 +55,7 @@ def fsub_button(client, message):
     if not FORCE_SUB_CHANNEL and FORCE_SUB_GROUP:
         buttons = [
             [
-                InlineKeyboardButton(text="Join Grup", url=client.invitelink2),
+                InlineKeyboardButton(text="Join Channel", url=client.invitelink2),
             ],
         ]
         try:
@@ -80,7 +80,7 @@ def fsub_button(client, message):
             buttons.append(
                 [
                     InlineKeyboardButton(
-                        text="Coba Lagi",
+                        text="Coba Lagi Tod",
                         url=f"https://t.me/{client.username}?start={message.command[1]}",
                     )
                 ]
@@ -92,14 +92,14 @@ def fsub_button(client, message):
         buttons = [
             [
                 InlineKeyboardButton(text="Join Channel", url=client.invitelink),
-                InlineKeyboardButton(text="Join Grup", url=client.invitelink2),
+                InlineKeyboardButton(text="Join Channel", url=client.invitelink2),
             ],
         ]
         try:
             buttons.append(
                 [
                     InlineKeyboardButton(
-                        text="Coba Lagi",
+                        text="Coba Lagi Tod",
                         url=f"https://t.me/{client.username}?start={message.command[1]}",
                     )
                 ]
